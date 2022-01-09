@@ -1,1 +1,14 @@
-
+{
+    "META_ABOUT_TITLE": "Over {appName}",
+    "META_ABOUT_DESC": "Het is zoals {appName} maar zonder dat meon het kopieerd en met JS.",
+    "META_ABOUT_FIELDS_DEVELOPERS": "Ontwikkelaars",
+    "META_ABOUT_FIELDS_SPECIALS": "Speciale Dank",
+    "META_ABOUT_LINKS_TITLE": "Verwijzigingen",
+    "META_ABOUT_LINKS_WEBSITE": "Website",
+    "META_ABOUT_LINKS_TWITTER": "Twitter",
+    "META_ABOUT_TECH_TITLE": "Technologie",
+    "META_ABOUT_STATS_TITLE": "Statistieken",
+    "META_ABOUT_STATS_SERVERS": "{guildCount} servers",
+    "META_ABOUT_STATS_USERS": "{userCount} gebruikers",
+    "META_ABOUT_VERSION": "Versie {version}"
+}
