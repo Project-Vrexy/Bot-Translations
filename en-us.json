@@ -1,4 +1,5 @@
 {
+	"ERROR_COMMAND_EXECUTION": "An error occured attempting to run that command! Error ID: {errorID}",
     "META_ABOUT_TITLE": "About {appName}",
     "META_ABOUT_DESC": "It's like {appName} but without meon copying and it's JS.",
     "META_ABOUT_FIELDS_DEVELOPERS": "Developers",
