@@ -1,0 +1,17 @@
+{
+	"title": ":information_source: About {{appName}}",
+	"description": "It's like {{appName}} but without meon copying and it's JS.",
+	"developers": "<:bot_dev:836605174696509471> Developers",
+	"specialThanks": ":star: Special Thanks",
+	"links": {
+		"title": ":link: Links",
+		"website": ":earth_americas: Website",
+		"twitter": ":bird: Twitter"
+	},
+	"tech": ":desktop: Tech",
+	"stats": {
+		"title": ":bar_chart: Stats",
+		"servers": "{{guildCount}} servers",
+		"users": "{{userCount}} users"
+	}
+}
