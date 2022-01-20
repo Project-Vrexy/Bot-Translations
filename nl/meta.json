@@ -1,17 +1,19 @@
 {
-	"title": ":information_source: Over {{appName}}",
-	"description": "Het is zoals {{appName}} maar zonder dat meon het kopieerd en met JS.",
-	"developers": "<:bot_dev:836605174696509471> Ontwikkelaars",
-	"specialThanks": ":star: Speciale Dank",
-	"links": {
-		"title": ":link: Verwijzigingen",
-		"website": ":earth_americas: Website",
-		"twitter": ":bird: Twitter"
-	},
-	"tech": ":desktop: Technologie",
-	"stats": {
-		"title": ":bar_chart: Statistieken",
-		"servers": "{{guildCount}} servers",
-		"users": "{{userCount}} gebruikers"
+	"about": {
+		"title": ":information_source: Over {{appName}}",
+		"description": "Het is zoals {{appName}} maar zonder dat meon het kopieerd en met JS.",
+		"developers": "<:bot_dev:836605174696509471> Ontwikkelaars",
+		"specialThanks": ":star: Speciale Dank",
+		"links": {
+			"title": ":link: Verwijzigingen",
+			"website": ":earth_americas: [Website]({{link}})",
+			"twitter": ":bird: [Twitter]({{link}})"
+		},
+		"tech": ":desktop: Technologie",
+		"stats": {
+			"title": ":bar_chart: Statistieken",
+			"servers": "{{guildCount}} servers",
+			"users": "{{userCount}} gebruikers"
+		}
 	}
 }

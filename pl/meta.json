@@ -1,17 +1,19 @@
 {
-	"title": ":information_source: O {{appName}}",
-	"description": "Jestem jak {{appName}} ale bez kopiowania Meon i w JS.",
-	"developers": "<:bot_dev:836605174696509471> Deweloperzy",
-	"specialThanks": ":star: Podziękowania",
-	"links": {
-		"title": ":link: Linki",
-		"website": ":earth_americas: Strona",
-		"twitter": ":bird: Twitter"
-	},
-	"tech": ":desktop: Technologia",
-	"stats": {
-		"title": ":bar_chart: Statystyki",
-		"servers": "{{guildCount}} serwerów",
-		"users": "{{userCount}} użytkowników"
+	"about": {
+		"title": ":information_source: O {{appName}}",
+		"description": "Jestem jak {{appName}} ale bez kopiowania Meon i w JS.",
+		"developers": "<:bot_dev:836605174696509471> Deweloperzy",
+		"specialThanks": ":star: Podziękowania",
+		"links": {
+			"title": ":link: Linki",
+			"website": ":earth_americas: [Strona]({{link}})",
+			"twitter": ":bird: [Twitter]({{link}})"
+		},
+		"tech": ":desktop: Technologia",
+		"stats": {
+			"title": ":bar_chart: Statystyki",
+			"servers": "{{guildCount}} serwerów",
+			"users": "{{userCount}} użytkowników"
+		}
 	}
 }
