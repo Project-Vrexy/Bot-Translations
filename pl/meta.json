@@ -6,8 +6,8 @@
 		"specialThanks": ":star: Podziękowania",
 		"links": {
 			"title": ":link: Linki",
-			"website": ":earth_americas: [Strona]({{link}})",
-			"twitter": ":bird: [Twitter]({{link}})"
+			"website": ":earth_americas: (Strona)[{{link}}]",
+			"twitter": ":bird: (Twitter)[{{link}}]"
 		},
 		"tech": ":desktop: Technologia",
 		"stats": {
