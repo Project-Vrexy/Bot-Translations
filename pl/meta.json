@@ -15,5 +15,6 @@
 			"servers": "{{guildCount}} serwerów",
 			"users": "{{userCount}} użytkowników"
 		}
-	}
+	},
+	"ping": "**:ping_pong: Ping!** `{{ping}}` ms"
 }
